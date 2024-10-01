@@ -1,3 +1,4 @@
+
 # distributed-planning
 work for distributed planning
 ## iris-disro generate a .so file for rrt-python
@@ -31,3 +32,7 @@ Ubuntu 20.04 下 MOSEK 9.3 的安装
 可以pip安装
 ## 最后
 将iris-distro build的文件中有一个irisbuild/cxx/iris_wrapper.cpython-38-x86_64-linux-gnu.so文件替换调rrt_python中python文件，可以直接运行rrt_python中rrt.py 
+=======
+# distributed_pathplanning
+distributed_pathplanning
+
