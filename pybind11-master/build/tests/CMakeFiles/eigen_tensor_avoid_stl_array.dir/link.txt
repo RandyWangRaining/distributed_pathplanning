@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -Os -DNDEBUG -flto -shared  -o eigen_tensor_avoid_stl_array.cpython-38-x86_64-linux-gnu.so CMakeFiles/eigen_tensor_avoid_stl_array.dir/eigen_tensor_avoid_stl_array.cpp.o  -lstdc++fs 

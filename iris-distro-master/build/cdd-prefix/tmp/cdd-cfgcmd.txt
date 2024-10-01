@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-E;env;CC=/usr/bin/cc;CFLAGS=;LDFLAGS=;<SOURCE_DIR>/configure;--prefix=/home/randywang/pathplanning/distributedplanning/iris-distro-master/build/install'

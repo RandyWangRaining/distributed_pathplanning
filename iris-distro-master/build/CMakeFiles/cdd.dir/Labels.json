@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/randywang/pathplanning/distributedplanning/iris-distro-master/build/CMakeFiles/cdd"
+		},
+		{
+			"file" : "/home/randywang/pathplanning/distributedplanning/iris-distro-master/build/CMakeFiles/cdd.rule"
+		},
+		{
+			"file" : "/home/randywang/pathplanning/distributedplanning/iris-distro-master/build/CMakeFiles/cdd-complete.rule"
+		},
+		{
+			"file" : "/home/randywang/pathplanning/distributedplanning/iris-distro-master/build/cdd-prefix/src/cdd-stamp/cdd-install.rule"
+		},
+		{
+			"file" : "/home/randywang/pathplanning/distributedplanning/iris-distro-master/build/cdd-prefix/src/cdd-stamp/cdd-mkdir.rule"
+		},
+		{
+			"file" : "/home/randywang/pathplanning/distributedplanning/iris-distro-master/build/cdd-prefix/src/cdd-stamp/cdd-download.rule"
+		},
+		{
+			"file" : "/home/randywang/pathplanning/distributedplanning/iris-distro-master/build/cdd-prefix/src/cdd-stamp/cdd-update.rule"
+		},
+		{
+			"file" : "/home/randywang/pathplanning/distributedplanning/iris-distro-master/build/cdd-prefix/src/cdd-stamp/cdd-patch.rule"
+		},
+		{
+			"file" : "/home/randywang/pathplanning/distributedplanning/iris-distro-master/build/cdd-prefix/src/cdd-stamp/cdd-configure.rule"
+		},
+		{
+			"file" : "/home/randywang/pathplanning/distributedplanning/iris-distro-master/build/cdd-prefix/src/cdd-stamp/cdd-build.rule"
+		},
+		{
+			"file" : "/home/randywang/pathplanning/distributedplanning/iris-distro-master/build/cdd-prefix/src/cdd-stamp/cdd-install_setoper_header.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"cdd"
+		],
+		"name" : "cdd"
+	}
+}

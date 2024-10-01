@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/randywang/pathplanning/distributedplanning/iris-distro-master/build/CMakeFiles/iris"
+		},
+		{
+			"file" : "/home/randywang/pathplanning/distributedplanning/iris-distro-master/build/CMakeFiles/iris.rule"
+		},
+		{
+			"file" : "/home/randywang/pathplanning/distributedplanning/iris-distro-master/build/CMakeFiles/iris-complete.rule"
+		},
+		{
+			"file" : "/home/randywang/pathplanning/distributedplanning/iris-distro-master/build/iris-prefix/src/iris-stamp/iris-install.rule"
+		},
+		{
+			"file" : "/home/randywang/pathplanning/distributedplanning/iris-distro-master/build/iris-prefix/src/iris-stamp/iris-mkdir.rule"
+		},
+		{
+			"file" : "/home/randywang/pathplanning/distributedplanning/iris-distro-master/build/iris-prefix/src/iris-stamp/iris-download.rule"
+		},
+		{
+			"file" : "/home/randywang/pathplanning/distributedplanning/iris-distro-master/build/iris-prefix/src/iris-stamp/iris-update.rule"
+		},
+		{
+			"file" : "/home/randywang/pathplanning/distributedplanning/iris-distro-master/build/iris-prefix/src/iris-stamp/iris-patch.rule"
+		},
+		{
+			"file" : "/home/randywang/pathplanning/distributedplanning/iris-distro-master/build/iris-prefix/src/iris-stamp/iris-configure.rule"
+		},
+		{
+			"file" : "/home/randywang/pathplanning/distributedplanning/iris-distro-master/build/iris-prefix/src/iris-stamp/iris-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"iris"
+		],
+		"name" : "iris"
+	}
+}
